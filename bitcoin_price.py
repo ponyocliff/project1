@@ -552,3 +552,4 @@ if __name__ == "__main__":
     
     # Run the multi-coin screener
     run_multi_coin_screener(coins_to_screen)
+    print()
